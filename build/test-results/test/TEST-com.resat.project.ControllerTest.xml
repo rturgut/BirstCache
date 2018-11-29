@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.resat.project.ControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-11-29T10:48:41" hostname="HomeDesktop" time="0.01">
+  <properties/>
+  <testcase name="testInvalidCommand" classname="com.resat.project.ControllerTest" time="0.004"/>
+  <testcase name="validateCommandProcessing" classname="com.resat.project.ControllerTest" time="0.002"/>
+  <testcase name="testInvalidCreateCommand" classname="com.resat.project.ControllerTest" time="0.0"/>
+  <testcase name="testOutput" classname="com.resat.project.ControllerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
